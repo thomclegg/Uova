@@ -1,0 +1,50 @@
+Data sources –
+https://cdn.contentful.com/spaces/${spaceId}/environments/${environmentId}/entries?access_token=${accessToken}
+
+Colors –
+Background: #f9f0de
+Black: #1f2839
+Border: #c2beb5
+
+Typography –
+All: Lateef
+https://fonts.google.com/specimen/Lateef
+
+@import url('https://fonts.googleapis.com/css?family=Lateef');
+
+Header: 144px at 1.0 line height
+Item titles: 24px at 1.25 line height
+Body: 18px at 1.25 line height
+
+CSS code –
+@import url('https://fonts.googleapis.com/css?family=Lateef');
+
+Content –
+Header:
+Uova
+
+Item 1:
+Breakfast Wrap
+$16.00
+2 eggs, green chorizo, house bacon, pico de gallo, roast potatoes, grilled tortilla and lime crema
+
+Item 2:
+Ranchero Bowl
+$15.50
+2 eggs, kale, heirloom tomato, black beans and peppers
+
+Item 3:
+Coconut Pancakes
+$14.00
+Scrambled eggs, pico de gallo, Baja slaw, crema, cilantro, roast potatoes and lime crema
+
+Item 4:
+Energy Bowl
+$18.00
+Acai, toasted coconut, banana, fresh berries, chia seeds, poppy seeds, honey and nuts
+
+Footer:
+Open Monday-Friday 7am-4pm
+1150 Broadway Ave, New York
+555.344.3447
+
